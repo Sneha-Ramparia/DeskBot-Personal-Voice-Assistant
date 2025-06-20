@@ -1,6 +1,7 @@
 # DeskBot – Personal Voice Assistant
 
 A Python-powered desktop assistant with **real-time speech recognition** and **natural language responses**. Control applications, automate tasks, and get intelligent answers — all through voice commands.
+
 ---
 
 ## How It Works
